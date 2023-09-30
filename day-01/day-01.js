@@ -1,0 +1,1 @@
+console.log("Primeiro Hello World para quebrar toda negatividade.")
